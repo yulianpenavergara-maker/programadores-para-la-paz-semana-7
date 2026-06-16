@@ -1,0 +1,15 @@
+Es importante que las comunidades puedan registrar y consultar reportes 
+en una plataforma tecnológica porque permite documentar problemas reales 
+como daños en infraestructura o fallas ambientales de forma organizada.
+
+Al tener un sistema digital, las autoridades pueden recibir la información 
+más rápido y priorizar soluciones según la gravedad de cada caso.
+
+Además, consultar los reportes ayuda a los ciudadanos a saber qué incidencias 
+ya fueron reportadas y evitar duplicar la misma información.
+
+Una API con GET y POST hace que el proceso sea accesible desde cualquier 
+dispositivo con internet, sin necesidad de papeles o trámites presenciales.
+
+En conclusión, la tecnología mejora la comunicación entre la comunidad 
+y las entidades, haciendo la gestión de problemas más transparente y eficiente.
